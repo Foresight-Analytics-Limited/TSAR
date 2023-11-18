@@ -1,4 +1,4 @@
-# TSAR
+# TSAR: Time Series Analytical Report
 Time Series Analytical Report: An Excel based tool for analysing data series, and comparing two series.
 
 ## Overview:
